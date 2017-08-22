@@ -1,0 +1,20 @@
+//Material
+item.power_gem.name=Power Gem
+
+//Blocks
+tile.power_table.name=Power Table
+tile.power_ore.name=Power Ore
+tile.power_block.name=Power Block
+
+//Armor
+item.power_helmet.name=Power Helmet
+item.power_chestplate.name=Power Chestplate
+item.power_leggings.name=Power Leggings
+item.power_boots.name=Power Boots
+
+//Tools
+item.power_pickaxe.name=Power Pickaxe
+item.power_axe.name=Power Axe
+item.power_hoe.name=Power Hoe
+item.power_shovel.name=Power Shovel
+item.power_sword.name=Power Sword

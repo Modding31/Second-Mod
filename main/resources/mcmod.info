@@ -1,0 +1,16 @@
+[
+{
+  "modid": "ps",
+  "name": "Power Set Mod",
+  "description": "A quite simple mod that adds very powerful set of tools and armor but using a special crafting mechanic.",
+  "version": "${0.1}",
+  "mcversion": "${1.12}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Conner_FTW"],
+  "credits": "Myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
